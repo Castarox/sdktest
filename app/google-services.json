@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785282787826",
+    "firebase_url": "https://direct-airfoil-88905.firebaseio.com",
+    "project_id": "direct-airfoil-88905",
+    "storage_bucket": "direct-airfoil-88905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785282787826:android:7e7f6fcd6bb4e305",
+        "android_client_info": {
+          "package_name": "synerise.com.sdk_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785282787826-jatqu265qg8p012d3rm9u38f5ih9kk1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXU-RSooZNXocUqi7-OiQ_iB48VuBCMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785282787826-jatqu265qg8p012d3rm9u38f5ih9kk1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
